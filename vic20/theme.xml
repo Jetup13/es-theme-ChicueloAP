@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1980</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Commodore VIC-20 is an 8-bit home computer that was sold by Commodore Business Machines</text>
+  </text>
+ </view>
+</theme>

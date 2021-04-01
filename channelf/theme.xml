@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1976</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Fairchild Channel F was the first video game console to use ROM cartridges, instead of having games built-in, and the first console to use a microprocessor</text>
+  </text>
+ </view>
+</theme>
