@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1998</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Visual Memory Unit is the primary memory card produced by Sega for the Dreamcast home video game console</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include> 
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2016</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Lutro is an in-development Love 2D reimplementation written in Lua and implemented as a libretro core</text>
+  </text>
+ </view>
+</theme>

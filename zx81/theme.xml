@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include> 
+
+<view name="system, basic, detailed, video, grid"> 
+  <text name="shortdescription" extra="true">
+   <text>1980</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Notable for being one of the first computers available in the United Kingdom for less than a hundred pounds</text>
+  </text>
+ </view>
+</theme>

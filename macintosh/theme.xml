@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>1984  ·  8-BIT COMPUTER</text>
+   <text>1984</text>
   </text>
   <text name="longdescription" extra="true">
    <text>The Macintosh 128K, originally released as the Apple Macintosh, is the original Apple Macintosh personal computer</text>

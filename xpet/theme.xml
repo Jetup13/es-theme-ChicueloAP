@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include> 
+
+<view name="system, basic, detailed, video, grid"> 
+  <text name="shortdescription" extra="true">
+   <text>1977</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Commodore PET is a line of home/personal computers produced starting in 1977 by Commodore International</text>
+  </text>
+ </view>
+</theme>

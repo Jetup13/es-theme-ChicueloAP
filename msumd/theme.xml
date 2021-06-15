@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>   
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>AEC</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The MSU-MD is a custom sound driver that enables Mode 1 and adds a convenient way for programmers to have play/stop/fade/seek functions</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid"> 
+  <text name="shortdescription" extra="true">
+   <text>1981</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The BBC Micro is a series of microcomputers designed by Acorn Computers Ltd</text>
+  </text>
+ </view>
+</theme>
